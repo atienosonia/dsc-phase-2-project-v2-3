@@ -20,8 +20,10 @@ Our main aim for this analysis is to help the real estate agency to have a bette
 MODELING:
 We used the following regression models:
 
-Simple Linear Regression model - Price vs Sqft_living
+Simple Linear Regression model - Price vs Sqft_living 
+ 
 Simple Linear Regression model - Price vs Sqft_above
+
 Multiple Linear Regression model - Price vs other variables
 
 REGRESSION RESULTS:
@@ -37,9 +39,14 @@ Factors like the number of bedrooms, the number of bathrooms, the living area an
 
 AUTHORS INFO:
 nyagahbrian17@gmail.com
+
 oderataylor@gmail.com
+
 sharonsonia29@gmail.com
+
 shakyzlangat7@gmail.com
+
 agapegichuki@gmail.com
+
 shamwamachristine742@gmail.com
 
