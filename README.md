@@ -19,7 +19,7 @@ BUSINESS UNDERSTANDING:
 The real estate industry is an essential component of the economy, and homeowners rely on the industry to provide them with the right information to make informed decisions. Homeowners are always looking for ways to increase the value of their properties, and understanding the factors that affect the selling price of houses is crucial. By analyzing the King County House Sales dataset, we aim to provide the real estate agency with the necessary insights to help homeowners understand and predict the real estate market.
 
 
-We shall therefore use the data available to conduct an analysis guided by the business merit above.
+We shall therefore use the data available to conduct an analysis guided by the business understanding above.
 
 Our main aim for this analysis is to help the real estate agency to have a better understanding of the real estate industry in King county and to help them come up with realistic sales targets and better pricing models.
 
