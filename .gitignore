@@ -3,4 +3,5 @@
 .DS_Store
 __pycache__
 *.db
-*.pytest_cache
+*.pytest_cache\
+alpha1.ipynb
