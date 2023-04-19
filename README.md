@@ -5,9 +5,13 @@ In this project, we have been assigned the task to analyze the King County House
 TABLE OF CONTENTS:
 
 .Business Understanding
+
 .Modeling
+
 .Regression Results
+
 .Conclusion
+
 .Authors Info
 
 BUSINESS UNDERSTANDING:
