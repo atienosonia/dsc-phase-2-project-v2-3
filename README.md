@@ -1,5 +1,9 @@
 KING COUNTY HOUSES DATA PROJECT.
 
+![Kingston-Beach-Suburb-Profile-Fall-Real-Estate](https://user-images.githubusercontent.com/108216478/233281560-9841450c-c576-4047-bb93-7a6683189554.jpg)
+
+
+
 In this project, we have been assigned the task to analyze the King County House Sales dataset to help a real estate agency understand the factors affecting the selling price of houses. The dataset contains data of houses sold in King County, Washington, USA between May 2014 and May 2015. As data scientists, our goal is to provide accurate and reliable information to homeowners about the potential increase in home value due to different factors. The insights gained from the analysis will help the real estate agency make better decisions and provide valuable advice to homeowners.
 
 TABLE OF CONTENTS:
@@ -33,6 +37,10 @@ Simple Linear Regression model - Price vs Sqft_above
 
 Multiple Linear Regression model - Price vs other variables
 
+Metrics used to achieve results were:
+
+R Squared and Absolute ERROR
+
 REGRESSION RESULTS:
 
 The multiple linear regression model is better than the two simple regression models as it had a higher Rsquared value. This shows that categorical variables had a positive effect on the prices as illustrated in the univariate analysis.
@@ -41,9 +49,7 @@ Therefore adding these variables to the predictive model made the model to be a 
 
 CONCLUSION:
 
-In conclusion the real estate agency should review the sqft of the living space/ the ground above the basement when setting their house prices as there is a linear relationship between these variables.
-
-Factors like the number of bedrooms, the number of bathrooms, the living area and grade of the house have a positive effect on the house prices. Lastly, the house prices seemed to have increased in 2015 they should therefore consider inflation when setting house prices in the future.
+After analyzing King County data, our final model would suggest the main factors in increasing property value are sqft foot living of the property as well as its grade. Grade refers to the classification based on construction and design structure . This mainly has to do with the types of materials used and the quality of the work done. Buildings that get better grades often cost more to build per unit of measure however we deem that investment profitable as properties that do grade higher, command higher value. Our model does however have its faults. Our final model R^2 was approximately 65% with an MAE of $129,493.34. Linear regression was probably not the best tool to use to get the most out of this data set so in the future we would like to use different more powerful machine learning tools in order to make this a more accurate predictive model
 
 
 AUTHORS INFO:
