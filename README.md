@@ -37,9 +37,7 @@ Simple Linear Regression model - Price vs Sqft_above
 
 Multiple Linear Regression model - Price vs other variables
 
-Metrics used to achieve results were:
-
-R Squared and Absolute ERROR
+Metrics used to achieve results is: R Squared
 
 REGRESSION RESULTS:
 
