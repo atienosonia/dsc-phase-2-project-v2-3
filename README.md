@@ -37,6 +37,10 @@ Simple Linear Regression model - Price vs Sqft_above
 
 Multiple Linear Regression model - Price vs other variables
 
+Metrics used to achieve results were:
+
+R Squared and Absolute ERROR
+
 REGRESSION RESULTS:
 
 The multiple linear regression model is better than the two simple regression models as it had a higher Rsquared value. This shows that categorical variables had a positive effect on the prices as illustrated in the univariate analysis.
