@@ -1,5 +1,9 @@
 KING COUNTY HOUSES DATA PROJECT.
 
+![Kingston-Beach-Suburb-Profile-Fall-Real-Estate](https://user-images.githubusercontent.com/108216478/233281560-9841450c-c576-4047-bb93-7a6683189554.jpg)
+
+
+
 In this project, we have been assigned the task to analyze the King County House Sales dataset to help a real estate agency understand the factors affecting the selling price of houses. The dataset contains data of houses sold in King County, Washington, USA between May 2014 and May 2015. As data scientists, our goal is to provide accurate and reliable information to homeowners about the potential increase in home value due to different factors. The insights gained from the analysis will help the real estate agency make better decisions and provide valuable advice to homeowners.
 
 TABLE OF CONTENTS:
